@@ -26,3 +26,13 @@ you should add Ruby to your toolbox.
 </p>},
 image_url: 'cs.jpg',
 price: 40.0)
+
+Product.create!(title: 'Bratya Karmazovi',
+description:
+%{<p>
+Ruby is the fastest growing and most exciting dynamic language
+out there. If you need to get working programs delivered fast,
+you should add Ruby to your toolbox.
+</p>},
+image_url: 'cs.jpg',
+price: 40.0)
