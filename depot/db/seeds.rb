@@ -36,3 +36,22 @@ you should add Ruby to your toolbox.
 </p>},
 image_url: 'cs.jpg',
 price: 40.0)
+
+Product.create!(title: 'Programming Ruby 1.9 & 2.0v2',
+description:
+%{<p>
+Ruby is the fastest growing and most exciting dynamic language
+out there. If you need to get working programs delivered fast,
+you should add Ruby to your toolbox.
+</p>},
+image_url: 'ruby.jpg',
+price: 49.95)
+Product.create!(title: 'Programming Ruby 1.9 & 2.0v3',
+description:
+%{<p>
+Ruby is the fastest growing and most exciting dynamic language
+out there. If you need to get working programs delivered fast,
+you should add Ruby to your toolbox.
+</p>},
+image_url: 'ruby.jpg',
+price: 100.00)
