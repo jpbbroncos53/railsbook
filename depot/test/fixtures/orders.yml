@@ -3,7 +3,7 @@
 one:
   name: Jacob Potter	
   address: 555 fake address
-  email: jacob@fake.org
+  email: dave@example.org
   pay_type: Check
 
 two:
