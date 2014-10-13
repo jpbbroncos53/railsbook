@@ -1,5 +1,5 @@
 class StoreController < ApplicationController
-
+skip_before_action :authorize
 =begin
 
 def increment_count
